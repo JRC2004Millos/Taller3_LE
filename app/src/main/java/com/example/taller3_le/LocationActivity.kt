@@ -348,7 +348,7 @@ class LocationActivity : AppCompatActivity(), SensorEventListener {
         // Add end marker
         val endMarker = Marker(map)
         endMarker.position = endPoint
-        endMarker.title = "Bryan"
+        endMarker.title = "User"
         map.overlays.add(endMarker)
     }
 

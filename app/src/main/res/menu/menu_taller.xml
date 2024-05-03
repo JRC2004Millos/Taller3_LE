@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuStatus"
+        android:icon="@drawable/offline"
+        android:title="@string/offline"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/menuUsers"
+        android:icon="@drawable/baseline_account_box_24"
+        android:title="@string/users"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/menuLogOut"
+        android:icon="@drawable/baseline_logout_24"
+        android:title="@string/logout"
+        app:showAsAction="ifRoom"/>
+</menu>

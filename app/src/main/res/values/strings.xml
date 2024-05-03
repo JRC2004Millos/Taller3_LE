@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Taller3_LE</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="password">Contraseña</string>
+    <string name="id">Id</string>
+    <string name="name">Nombre</string>
+    <string name="last_name">Apellido</string>
+    <string name="email">Correo</string>
+    <string name="latitude">Latitud</string>
+    <string name="longitude">Longitud</string>
+    <string name="save">Guardar</string>
+    <string name="add_photo">Añadir foto</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="offline">OffLine</string>
+    <string name="users">Usuarios</string>
+    <string name="location">Ubicación</string>
+    <string name="title_activity_location">LocationActivity</string>
+</resources>
